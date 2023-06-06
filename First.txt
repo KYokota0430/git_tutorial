@@ -1,0 +1,7 @@
+Gitのれんしゅうをしていきます。
+基本歴なワークフローを学びます。
+・git add
+・git commit
+・git rm
+・git status
+・git diff
